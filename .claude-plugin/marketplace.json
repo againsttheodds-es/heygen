@@ -13,12 +13,12 @@
       "skills": [
         {
           "name": "avatar",
-          "path": "heygen-avatar",
+          "path": "skills/heygen-avatar",
           "invoke": "/heygen:avatar"
         },
         {
           "name": "video",
-          "path": "heygen-video",
+          "path": "skills/heygen-video",
           "invoke": "/heygen:video"
         }
       ]
